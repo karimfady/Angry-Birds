@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>woodTarget.jpeg</file>
+        <file>angrybird.png</file>
+        <file>background birdieblast.jpeg</file>
+        <file>merged colors for force bar.jpeg</file>
+        <file>shooter wheel.jpeg</file>
+        <file>shooter wheel.png</file>
+        <file>shooter-removebg.png</file>
+        <file>tower.png</file>
+        <file>wall.jpeg</file>
+        <file>explosion.png</file>
+    </qresource>
+</RCC>
